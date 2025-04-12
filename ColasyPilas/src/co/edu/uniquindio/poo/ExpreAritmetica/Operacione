@@ -1,0 +1,10 @@
+(a+b-c)*(e/f)-(g-h/i)
+(+ab-c)*(e/f)-(g-h/i)
+(-+abc)*(e/f)-(g-h/i)
+(-+abc)*(/ef)-(g-h/i)
+(-+abc)*(/ef)-(g-/hi)
+(-+abc)*(/ef)-(-g/hi)
+-+abc*/ef--g/hi
+*-+abc/ef--g/hi
+-*-+abc/ef-g/hi
+
